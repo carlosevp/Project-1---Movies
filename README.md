@@ -45,6 +45,6 @@ This project is licensed under the GNUv3 License - see the [LICENSE.md](LICENSE.
 
 ## Acknowledgments
 
-* Udacity team for offering the Full Stack Web Developer Nanodegree, specially my mentor Evan, who is also available to help.
+* Udacity team for offering the Full Stack Web Developer Nanodegree, specially my mentor Evan who is always available to help.
 
 
