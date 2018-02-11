@@ -1,6 +1,6 @@
-# Project Title
+# Movie Trailer Website
 
-One Paragraph of project description goes here
+Creates a HTML website with my favorite Star Wars movies, and allows the user to watch the trailers when they click on the movie poster.
 
 ## Getting Started
 
@@ -8,81 +8,43 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+You must have python 2 installed at your computer, as well as internet connection and a web browser to watch the trailers. 
+Write permissions are also required to generate the HTML website on the folder where you store this project. This file will be called fresh_tomatoes.html and its dynamicly generated.
 
 ```
-Give examples
+To get python visit https://www.python.org/downloads/ 
 ```
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+Download Python 2 and install. Download this project files and copy to a folder. Execute the entertainment_center.py to generate the website.
 
 ```
-Give the example
+Visit https://www.python.org/downloads/ 
+Download the latest Python version 2 available and install.
+Copy all the files of this project to a local folder at your computer, eg: C:\Udacity\
+Open a command prompt and call the entertainmentcenter.py using pyton: eg: python entertainment_center.py
+If you prefer, open the graphical IDE for Python called IDLE and open entertainmentcenter.py from there, than hit Run.
 ```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+A HTML website will be created and a list of movies will appear, click on each movie to watch it's trailer.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Version 1.0
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Carlos Veiga Pereira** - *Initial work*  
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNUv3 License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Udacity team for offering the Full Stack Web Developer Nanodegree, specially my mentor Evan, who is also available to help.
+
 
